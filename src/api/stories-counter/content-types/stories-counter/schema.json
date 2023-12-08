@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "stories_counters",
+  "info": {
+    "singularName": "stories-counter",
+    "pluralName": "stories-counters",
+    "displayName": "StoriesCounter"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Value": {
+      "type": "biginteger"
+    }
+  }
+}
